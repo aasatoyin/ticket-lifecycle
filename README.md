@@ -107,7 +107,7 @@ Resolution: John can closed the ticket if he has the permission or resolved and 
 <img src="https://i.imgur.com/bKwTRIz.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Resolution: The above image showed all the ticket and who closed it and when. Note: A a new help desk professional can check the history of any closed ticket out of curiousity to have the intuation of how it was resolved and closed.
+Resolution: The above image showed all the ticket and who closed it and when. Note: A new help desk professional can check the history of any closed ticket out of curiousity to have the intuation of how it was resolved and closed.
 </p>
 <br />
 
