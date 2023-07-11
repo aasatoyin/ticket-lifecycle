@@ -27,6 +27,33 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
+<img src="https://i.imgur.com/VgAOIig.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+It is possible that the IP address would change if you've log out of your VM or lost connection in the installation stage, so login to Azure portal to copy a new VM IP address. Reconnect to VM as follows: Open RDP and paste the VM IP address -> enter default username and password generated when creating VM -> ok to remotely gain access to VM.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/H1fisZm.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Remote access gained succefully.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/D25cyWC.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Copy and paste admin URL on your VM browser -> login with admin user name and password created from the installation stage. osticket page will load as shown in the above image. 
+  
+ Admin URL- http://localhost/osTicket/scp/login.php
+</p>
+<br />
+
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
