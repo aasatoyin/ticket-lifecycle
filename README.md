@@ -66,7 +66,7 @@ Open a New Ticket -> User filled contant details -> Select Help Topic -> Create 
 <img src="https://i.imgur.com/QaVJ359.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p> 
-Assgnment and Communication: Use Admin URL to login as one of the help desk professionals who goes about troubleshooting and solving help desk tickets, and this should display all the users tickets as shown above. 
+Assignment and Communication: Use Admin URL to login as one of the help desk professionals who goes about troubleshooting and resolving help desk tickets, and this should display all the users tickets as shown above. 
 </p>
 <br />
 
@@ -74,15 +74,23 @@ Assgnment and Communication: Use Admin URL to login as one of the help desk prof
 <img src="https://i.imgur.com/WaPeV1Y.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Usually this is the stage where various users ticket will can be assigned to agents (help desk professionals) by the Team Lead or the  person in-charge depending on the organisation SOP. The help desk professionals with the right permission logged in using the admin URL to assign and communicate ticket to agents (other help desk professionals) for resolution. Here  a whole lot of thing can be done like: assign priority, assign department, assign SLA plan, assign ticket to a specific help desk professional and so on. Click the ticket and fill out the appropriate information to assign and communicate, the page where ticket can be assigned shown in the above image.
+Assignment and Communication: usually this is the stage where various users ticket will can be assigned to agents (help desk professionals) by the Team Lead or the  person in-charge depending on the organisation SOP. The help desk professionals with the right permission logged in using the admin URL to assign and communicate ticket to agents (other help desk professionals) for resolution. Here  a whole lot of thing can be done like: assign priority, assign department, assign SLA plan, assign ticket to a specific help desk professional and so on. Click the ticket and fill out the appropriate information to assign and communicate, the page where ticket can be assigned shown in the above image.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/uEfgL0v.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ayiJd49.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above ticket has been assigned to an help desl professional name 'jane.doe' you can also noticed that the priority has chnaged from 'Normal' to 'Emergency' frome the above image. These are examples of what assignment and communication looks like.
+'Jane' has assigned the ticket to an help desk professional named 'john.doe' you can also noticed that the priority has chnaged from 'Normal' to 'High' and the resolved ticket has dissapared from the list of open ticket. from the above image. These are examples of what assignment and communication looks like.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PqTHEmp.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Working the Issue: John.doe login as an help desk professionals to work on his assigned ticket, it automatically loads the ticket assigned to him, (i.e he only see the ticket assigned to him) and he will soon be troubleshootng and resolving the issue. The above image shows his osticket page that contains his assigned tickets before he worked on it.
 </p>
 <br />
 
@@ -90,6 +98,21 @@ The above ticket has been assigned to an help desl professional name 'jane.doe' 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Resolution: John can closed the ticket if he has the permission or resolved and it goes back to Jane to be closed, once closed the ticket dissappeared just like the one Jane resolved dissapeard, all the ticket have been resolve and go to 'closed'. Every resolved ticket can now be found in 'closed'
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/bKwTRIz.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Resolution: The above image showed all the ticket and who closed it and when. Note: A a new help desk professional can check the history of any closed ticket out of curiousity to have the intuation of how it was resolved and closed.
+</p>
+<br />
+
+</p>
+<p>
+Note: You can create as many users, agents, teams, department and so on as possible. This makes the end of the project.
 </p>
 <br />
