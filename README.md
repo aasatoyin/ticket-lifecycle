@@ -43,7 +43,7 @@ Remote access gained succefully.
 <br />
 
 <p>
-<img src="https://i.imgur.com/D25cyWC.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LCapVvB.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Copy and paste admin URL on your VM browser -> login with admin user name and password created from the installation stage. osticket page will load as shown in the above image. 
