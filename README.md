@@ -95,10 +95,10 @@ Working the Issue: John.doe login as an help desk professionals to work on his a
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ubRwtFh.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Resolution: John can closed the ticket if he has the permission or resolved and it goes back to Jane to be closed, once closed the ticket dissappeared just like the one Jane resolved dissapeard, all the ticket have been resolve and go to 'closed'. Every resolved ticket can now be found in 'closed'
+Resolution: John can closed the ticket if he has the permission or resolved and it goes back to Jane to be closed, once closed the ticket dissappeared just like the ones Jane resolved dissapeard, all the ticket have been resolved and go to 'closed'. Every resolved ticket can now be found in 'closed'. The image above showed that John has resolved this ticket and closed it.
 </p>
 <br />
 
