@@ -48,7 +48,7 @@ Remote access gained succefully.
 <p>
 Copy and paste admin URL on your VM browser -> login with admin user name and password created from the installation stage. osticket page will load as shown in the above image. 
   
- Admin URL- http://localhost/osTicket/scp/login.php
+ End Users URL- http://localhost/osTicket/ 
 </p>
 <br />
 
